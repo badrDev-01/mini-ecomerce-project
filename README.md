@@ -1,4 +1,4 @@
-# 🛍️ Mini Boutique — Detailed README (Explained for non-React teachers)
+# 🛍️ Mini Boutique 
 
 ## 1. Project Summary (Short)
 **Mini Boutique** is a front-end e-commerce application built with **React**, styled with **Tailwind CSS**, and uses React Context + `useReducer` to manage a shopping cart. The app is single-page (client-side routing) using **React Router**. Products are loaded from a local data file and the checkout is simulated (no backend payment processing).
